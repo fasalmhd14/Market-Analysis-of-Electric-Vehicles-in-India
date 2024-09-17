@@ -1,6 +1,6 @@
 **MARKET ANALYSIS OF ELECTRIC VEHICLES IN INDIA**
 
-Tools : Python and PowerBI
+Tools : PowerBI
 
 Industry - Electric Automotive 
 
